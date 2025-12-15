@@ -1,0 +1,10 @@
+^D:\C_WORKSPACE\SDL_PROJECT\CMAKELISTS.TXT
+setlocal
+D:\software\visual_studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/c_workspace/sdl_project -BD:/c_workspace/sdl_project/build --check-stamp-file D:/c_workspace/sdl_project/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
