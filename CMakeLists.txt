@@ -26,4 +26,5 @@ find_package(SDL2 REQUIRED)
 add_executable(${TARGET} main.cpp)
 
 # 链接
-target_link_libraries(${TARGET} SDL2::SDL2main SDL2::SDL2)
+# mac下不需要SDL2main, windows下需要sdl2main
+target_link_libraries(${TARGET} ${SDL2_LIBRARIES})
