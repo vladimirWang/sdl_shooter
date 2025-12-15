@@ -173,9 +173,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\c_workspace\sdl_project\build\SDLshooter.vcxproj">
-      <Project>{BB205A74-690C-317F-A7EB-2605E91AA887}</Project>
-      <Name>SDLshooter</Name>
+    <ProjectReference Include="D:\c_workspace\sdl_project\build\SDLshooter-Windows.vcxproj">
+      <Project>{5CE38535-DA6A-3E6E-8261-70473B9075BD}</Project>
+      <Name>SDLshooter-Windows</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -43,15 +43,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-3d1a948103ea63e94ee8.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-bcf4db116b622a359ef5.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "SDLshooter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-Debug-070cc6479efc02b10a14.json",
-					"name" : "SDLshooter",
+					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDLshooter-Windows-Debug-307b4ec668a1baa7f5ee.json",
+					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
 				{
@@ -105,15 +105,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-3d1a948103ea63e94ee8.json",
+					"jsonFile" : "target-ALL_BUILD-Release-bcf4db116b622a359ef5.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "SDLshooter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-Release-ac78dd486a4397529615.json",
-					"name" : "SDLshooter",
+					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDLshooter-Windows-Release-15845baa3db95c4393fb.json",
+					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
 				{
@@ -167,15 +167,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-3d1a948103ea63e94ee8.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-bcf4db116b622a359ef5.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "SDLshooter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-MinSizeRel-bbe6f92053416bc91962.json",
-					"name" : "SDLshooter",
+					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDLshooter-Windows-MinSizeRel-d94919dbb3750f0613f7.json",
+					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
 				{
@@ -229,15 +229,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-3d1a948103ea63e94ee8.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-bcf4db116b622a359ef5.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "SDLshooter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-RelWithDebInfo-141efee91e582607062a.json",
-					"name" : "SDLshooter",
+					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDLshooter-Windows-RelWithDebInfo-edc41ebb49c947c2cc09.json",
+					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
 				{
