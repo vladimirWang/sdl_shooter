@@ -43,14 +43,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-bcf4db116b622a359ef5.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-b7f159336be8e857cd54.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-Windows-Debug-76d7265336cffcb70268.json",
+					"jsonFile" : "target-SDLshooter-Windows-Debug-7a7cfc79975ba5f4bc16.json",
 					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
@@ -105,14 +105,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-bcf4db116b622a359ef5.json",
+					"jsonFile" : "target-ALL_BUILD-Release-b7f159336be8e857cd54.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-Windows-Release-85744384643164c98336.json",
+					"jsonFile" : "target-SDLshooter-Windows-Release-4263d43b298623553911.json",
 					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
@@ -167,14 +167,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-bcf4db116b622a359ef5.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-b7f159336be8e857cd54.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-Windows-MinSizeRel-01e7676df128b9c69942.json",
+					"jsonFile" : "target-SDLshooter-Windows-MinSizeRel-e5f9725ccb0778b6f6aa.json",
 					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},
@@ -229,14 +229,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-bcf4db116b622a359ef5.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-b7f159336be8e857cd54.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "SDLshooter-Windows::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SDLshooter-Windows-RelWithDebInfo-528a95766336af1cda70.json",
+					"jsonFile" : "target-SDLshooter-Windows-RelWithDebInfo-9c45cc9a60ddce0ab973.json",
 					"name" : "SDLshooter-Windows",
 					"projectIndex" : 0
 				},

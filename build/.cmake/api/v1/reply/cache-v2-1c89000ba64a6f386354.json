@@ -1102,6 +1102,18 @@
 			"value" : "C:/sdl_library/sdl2/cmake"
 		},
 		{
+			"name" : "SDL2_image_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for SDL2_image."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/sdl_library/sdl2/cmake"
+		},
+		{
 			"name" : "SDLshooter_BINARY_DIR",
 			"properties" : 
 			[

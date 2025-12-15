@@ -21,10 +21,11 @@ set(TARGET ${PROJECT_NAME}-${CMAKE_SYSTEM_NAME})
 
 # 查找并载入cmake预设
 find_package(SDL2 REQUIRED)
+find_package(SDL2_image REQUIRED)
 
 # 添加可执行文件
 add_executable(${TARGET} main.cpp)
 
 # 链接
 # mac下不需要SDL2main, windows下需要sdl2main
-target_link_libraries(${TARGET} ${SDL2_LIBRARIES})
+target_link_libraries(${TARGET} ${SDL2_LIBRARIES} SDL2_image::SDL2_image)

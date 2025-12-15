@@ -815,6 +815,19 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "D:/software/visual_studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/sdl_library/sdl2/cmake/sdl2_image-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/sdl_library/sdl2/cmake/sdl2_image-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/software/visual_studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/FeatureSummary.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",

@@ -1,6 +1,8 @@
 # CMake generation dependency list for this directory.
 C:/sdl_library/sdl2/cmake/sdl2-config-version.cmake
 C:/sdl_library/sdl2/cmake/sdl2-config.cmake
+C:/sdl_library/sdl2/cmake/sdl2_image-config-version.cmake
+C:/sdl_library/sdl2/cmake/sdl2_image-config.cmake
 D:/c_workspace/sdl_project/CMakeLists.txt
 D:/c_workspace/sdl_project/build/CMakeFiles/3.30.5-msvc23/CMakeCCompiler.cmake
 D:/c_workspace/sdl_project/build/CMakeFiles/3.30.5-msvc23/CMakeCXXCompiler.cmake

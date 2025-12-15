@@ -1,5 +1,6 @@
 #include <iostream>
 #include <SDL.h>
+#include <SDL_image.h>
 using namespace std;
 
 int main(int, char**) {
@@ -13,6 +14,12 @@ int main(int, char**) {
 
     // 创建渲染器
     SDL_Renderer *renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+
+    if (IMG_Init(IMG_INIT_PNG | IMG_INIT_JPG) != (IMG_INIT_PNG | IMG_INIT_JPG)) {
+        cerr<<"SDL image init error: "<<IMG_GetError()<<endl;
+        return 1;
+    }
+    SDL_Texture *texture = IMG_LoadTexture(renderer, "assets/image/bg.png");
 
     // 渲染循环
     while(true) {
@@ -30,10 +37,17 @@ int main(int, char**) {
         SDL_RenderFillRect(renderer, &rect);
         SDL_SetRenderDrawColor(renderer, 0,0,0,255);
 
+        // 画图片
+        SDL_Rect dstrect = {200, 200, 300, 400};
+        SDL_RenderCopy(renderer, texture, NULL, &dstrect);
         // 展示
         SDL_RenderPresent(renderer);
 
     }
+    // 清理图片资源
+    SDL_DestroyTexture(texture);
+    IMG_Quit();
+
     // 清理并退出
     SDL_DestroyRenderer(renderer);
     SDL_DestroyWindow(window);
